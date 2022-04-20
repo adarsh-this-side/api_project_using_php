@@ -1,0 +1,10 @@
+// Error Documentation
+101 = Please provide API token 
+102 = Please provide valid API token
+103 = Please token deactivated
+104 = Data not found
+200 = Success
+401 = Provide id
+402 = Data deleted
+
+sort = DESC or ASC
